@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gmail to Inbox
 // @namespace    https://github.com/Inchworm333
-// @version      0.1
+// @version      0.2
 // @description  Change the Gmail button back to Inbox (thanks google for removing that)
 // @author       Inchworm333
 // @icon         https://ssl.gstatic.com/bt/C3341AA7A1A076756462EE2E5CD71C11/ic_product_inbox_16dp_r2_2x.png
