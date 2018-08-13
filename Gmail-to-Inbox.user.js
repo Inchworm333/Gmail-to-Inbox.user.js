@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  Change the Gmail button back to Inbox (thanks google for removing that)
 // @author       Inchworm333
+// @license      MIT
 // @match        https://www.google.com
 // @match        https://www.google.com/webhp?authuser=*
 // @grant        none
